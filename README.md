@@ -23,4 +23,7 @@ names had to be edited manually, and some countries are not mapped:
 
 See `combine.jq` for the mapping logic used.
 
+This repository is released into the **Public Domain**. You can use it
+with no restrictions whatsoever.
+
 [custom standard]: https://www.ssb.no/klass/klassifikasjoner/91
