@@ -6,7 +6,7 @@
     },
     {
       "code": "AE",
-      "name": "Forente arab. emir."
+      "name": "De forente arabiske emirater"
     },
     {
       "code": "AF",
@@ -426,7 +426,7 @@
     },
     {
       "code": "IR",
-      "name": "Iran, Islamic Republic of"
+      "name": "Iran"
     },
     {
       "code": "IS",
@@ -478,11 +478,11 @@
     },
     {
       "code": "KP",
-      "name": "Korea (North)"
+      "name": "North Korea"
     },
     {
       "code": "KR",
-      "name": "Korea (South)"
+      "name": "South Korea"
     },
     {
       "code": "KW",
@@ -498,7 +498,7 @@
     },
     {
       "code": "LA",
-      "name": "Lao PDR"
+      "name": "Laos"
     },
     {
       "code": "LB",
@@ -586,7 +586,7 @@
     },
     {
       "code": "MO",
-      "name": "Marokko"
+      "name": "Macao"
     },
     {
       "code": "MP",
@@ -661,6 +661,18 @@
       "name": "Nederland"
     },
     {
+      "code": "NL",
+      "name": "Sint Maarten"
+    },
+    {
+      "code": "NL",
+      "name": "Bonaire, Sint Eustatius og Saba"
+    },
+    {
+      "code": "NL",
+      "name": "Curaçao"
+    },
+    {
       "code": "NO",
       "name": "Norge"
     },
@@ -726,7 +738,7 @@
     },
     {
       "code": "PS",
-      "name": "Palestinian Territory"
+      "name": "Palestine"
     },
     {
       "code": "PT",
@@ -830,7 +842,7 @@
     },
     {
       "code": "ST",
-      "name": "Sao Tome and Principe"
+      "name": "São Tomé og Príncipe"
     },
     {
       "code": "SV",
@@ -838,7 +850,7 @@
     },
     {
       "code": "SY",
-      "name": "Syrian Arab Republic (Syria)"
+      "name": "Syria"
     },
     {
       "code": "SZ",
@@ -942,7 +954,7 @@
     },
     {
       "code": "VE",
-      "name": "Venezuela (Bolivarian Republic)"
+      "name": "Venezuela"
     },
     {
       "code": "VG",
@@ -1000,7 +1012,7 @@
     },
     {
       "code": 102,
-      "name": "Grønland"
+      "name": "Greenland"
     },
     {
       "code": 103,
@@ -1008,7 +1020,7 @@
     },
     {
       "code": 104,
-      "name": "Færøyene"
+      "name": "Faroe Islands"
     },
     {
       "code": 105,
@@ -1052,7 +1064,7 @@
     },
     {
       "code": 120,
-      "name": "Hviterussland"
+      "name": "Belarus"
     },
     {
       "code": 121,
@@ -1144,7 +1156,7 @@
     },
     {
       "code": 148,
-      "name": "Ukraina"
+      "name": "Ukraine"
     },
     {
       "code": 152,
@@ -1156,15 +1168,15 @@
     },
     {
       "code": 154,
-      "name": "Vatikanstaten"
+      "name": "Holy See (Vatican City State)"
     },
     {
       "code": 155,
-      "name": "Bosnia-Hercegovina"
+      "name": "Bosnia and Herzegovina"
     },
     {
       "code": 156,
-      "name": "Makedonia"
+      "name": "Macedonia, Republic of"
     },
     {
       "code": 157,
@@ -1172,7 +1184,7 @@
     },
     {
       "code": 158,
-      "name": "Tsjekkia"
+      "name": "Den tsjekkiske rep."
     },
     {
       "code": 159,
@@ -1196,7 +1208,7 @@
     },
     {
       "code": 164,
-      "name": "Man"
+      "name": "Isle of Man"
     },
     {
       "code": 203,
@@ -1212,11 +1224,11 @@
     },
     {
       "code": 209,
-      "name": "St. Helena"
+      "name": "Saint Helena"
     },
     {
       "code": 213,
-      "name": "Det britiske territoriet i Indiahavet"
+      "name": "British Indian Ocean Territory"
     },
     {
       "code": 216,
@@ -1224,7 +1236,7 @@
     },
     {
       "code": 220,
-      "name": "Komorene"
+      "name": "Comoros"
     },
     {
       "code": 229,
@@ -1232,11 +1244,11 @@
     },
     {
       "code": 235,
-      "name": "Ekvatorial-Guinea"
+      "name": "Equatorial Guinea"
     },
     {
       "code": 239,
-      "name": "Elfenbeinskysten"
+      "name": "Côte d'Ivoire"
     },
     {
       "code": 241,
@@ -1244,7 +1256,7 @@
     },
     {
       "code": 246,
-      "name": "Etiopia"
+      "name": "Ethiopia"
     },
     {
       "code": 249,
@@ -1276,11 +1288,11 @@
     },
     {
       "code": 270,
-      "name": "Kamerun"
+      "name": "Cameroon"
     },
     {
       "code": 273,
-      "name": "Kapp Verde"
+      "name": "Cape Verde"
     },
     {
       "code": 276,
@@ -1288,11 +1300,11 @@
     },
     {
       "code": 278,
-      "name": "Kongo-Brazzaville"
+      "name": "Congo (Brazzaville)"
     },
     {
       "code": 279,
-      "name": "Kongo"
+      "name": "Congo, (Kinshasa)"
     },
     {
       "code": 281,
@@ -1308,7 +1320,7 @@
     },
     {
       "code": 289,
-      "name": "Madagaskar"
+      "name": "Madagascar"
     },
     {
       "code": 296,
@@ -1320,11 +1332,11 @@
     },
     {
       "code": 303,
-      "name": "Marokko"
+      "name": "Morocco"
     },
     {
       "code": 304,
-      "name": "Vest-Sahara"
+      "name": "Western Sahara"
     },
     {
       "code": 306,
@@ -1376,11 +1388,11 @@
     },
     {
       "code": 337,
-      "name": "Den sentralafrikanske republikk"
+      "name": "Central African Republic"
     },
     {
       "code": 338,
-      "name": "Seychellene"
+      "name": "Seychelles"
     },
     {
       "code": 339,
@@ -1392,7 +1404,7 @@
     },
     {
       "code": 355,
-      "name": "Sør-Sudan"
+      "name": "South Sudan"
     },
     {
       "code": 356,
@@ -1412,7 +1424,7 @@
     },
     {
       "code": 373,
-      "name": "Tsjad"
+      "name": "Chad"
     },
     {
       "code": 376,
@@ -1444,7 +1456,7 @@
     },
     {
       "code": 407,
-      "name": "Aserbajdsjan"
+      "name": "Azerbaijan"
     },
     {
       "code": 409,
@@ -1460,7 +1472,7 @@
     },
     {
       "code": 416,
-      "name": "Brunei"
+      "name": "Brunei Darussalam"
     },
     {
       "code": 420,
@@ -1484,11 +1496,11 @@
     },
     {
       "code": 432,
-      "name": "Taiwan"
+      "name": "Taiwan, Republic of China"
     },
     {
       "code": 436,
-      "name": "Hongkong"
+      "name": "Hong Kong, SAR China"
     },
     {
       "code": 444,
@@ -1500,7 +1512,7 @@
     },
     {
       "code": 452,
-      "name": "Irak"
+      "name": "Iraq"
     },
     {
       "code": 456,
@@ -1520,23 +1532,23 @@
     },
     {
       "code": 478,
-      "name": "Kambodsja"
+      "name": "Cambodia"
     },
     {
       "code": 480,
-      "name": "Kasakhstan"
+      "name": "Kazakhstan"
     },
     {
       "code": 484,
-      "name": "Kina"
+      "name": "China"
     },
     {
       "code": 488,
-      "name": "Nord-Korea"
+      "name": "North Korea"
     },
     {
       "code": 492,
-      "name": "Sør-Korea"
+      "name": "South Korea"
     },
     {
       "code": 496,
@@ -1548,7 +1560,7 @@
     },
     {
       "code": 502,
-      "name": "Kirgisistan"
+      "name": "Kyrgyzstan"
     },
     {
       "code": 504,
@@ -1556,7 +1568,7 @@
     },
     {
       "code": 508,
-      "name": "Libanon"
+      "name": "Lebanon"
     },
     {
       "code": 510,
@@ -1568,7 +1580,7 @@
     },
     {
       "code": 513,
-      "name": "Maldivene"
+      "name": "Maldives"
     },
     {
       "code": 516,
@@ -1580,7 +1592,7 @@
     },
     {
       "code": 524,
-      "name": "Palestina"
+      "name": "Palestine"
     },
     {
       "code": 528,
@@ -1592,7 +1604,7 @@
     },
     {
       "code": 537,
-      "name": "Øst-Timor"
+      "name": "Timor-Leste"
     },
     {
       "code": 540,
@@ -1608,7 +1620,7 @@
     },
     {
       "code": 550,
-      "name": "Tadsjikistan"
+      "name": "Tajikistan"
     },
     {
       "code": 552,
@@ -1616,7 +1628,7 @@
     },
     {
       "code": 554,
-      "name": "Usbekistan"
+      "name": "Uzbekistan"
     },
     {
       "code": 564,
@@ -1628,15 +1640,15 @@
     },
     {
       "code": 575,
-      "name": "Vietnam"
+      "name": "Viet Nam"
     },
     {
       "code": 578,
-      "name": "Jemen"
+      "name": "Yemen"
     },
     {
       "code": 601,
-      "name": "De amerikanske Jomfruøyene"
+      "name": "Virgin Islands, US"
     },
     {
       "code": 602,
@@ -1644,7 +1656,7 @@
     },
     {
       "code": 603,
-      "name": "Antigua og Barbuda"
+      "name": "Antigua and Barbuda"
     },
     {
       "code": 604,
@@ -1660,7 +1672,7 @@
     },
     {
       "code": 608,
-      "name": "De britiske Jomfruøyene"
+      "name": "British Virgin Islands"
     },
     {
       "code": 612,
@@ -1668,7 +1680,7 @@
     },
     {
       "code": 613,
-      "name": "Caymanøyene"
+      "name": "Cayman Islands"
     },
     {
       "code": 616,
@@ -1684,7 +1696,7 @@
     },
     {
       "code": 624,
-      "name": "Den dominikanske republikk"
+      "name": "Dominican Republic"
     },
     {
       "code": 629,
@@ -1756,11 +1768,11 @@
     },
     {
       "code": 676,
-      "name": "Saint-Pierre-et-Miquelon"
+      "name": "Saint Pierre and Miquelon"
     },
     {
       "code": 677,
-      "name": "Saint Kitts og Nevis"
+      "name": "Saint Kitts and Nevis"
     },
     {
       "code": 678,
@@ -1768,15 +1780,15 @@
     },
     {
       "code": 679,
-      "name": "Saint Vincent og Grenadinene"
+      "name": "Saint Vincent and Grenadines"
     },
     {
       "code": 680,
-      "name": "Trinidad og Tobago"
+      "name": "Trinidad and Tobago"
     },
     {
       "code": 681,
-      "name": "Turks- og Caicosøyene"
+      "name": "Turks and Caicos Islands"
     },
     {
       "code": 684,
@@ -1788,7 +1800,7 @@
     },
     {
       "code": 686,
-      "name": "Saint-Martin"
+      "name": "Saint-Martin (French part)"
     },
     {
       "code": 687,
@@ -1824,11 +1836,11 @@
     },
     {
       "code": 740,
-      "name": "Falklandsøyene"
+      "name": "Falkland Islands (Malvinas)"
     },
     {
       "code": 745,
-      "name": "Fransk Guyana"
+      "name": "French Guiana"
     },
     {
       "code": 755,
@@ -1840,7 +1852,7 @@
     },
     {
       "code": 765,
-      "name": "Surinam"
+      "name": "Suriname"
     },
     {
       "code": 770,
@@ -1852,7 +1864,7 @@
     },
     {
       "code": 802,
-      "name": "Amerikansk Samoa"
+      "name": "American Samoa"
     },
     {
       "code": 805,
@@ -1864,15 +1876,15 @@
     },
     {
       "code": 807,
-      "name": "Christmasøya"
+      "name": "Christmas Island"
     },
     {
       "code": 808,
-      "name": "Kokosøyene"
+      "name": "Cocos (Keeling) Islands"
     },
     {
       "code": 809,
-      "name": "Cookøyene"
+      "name": "Cook Islands"
     },
     {
       "code": 811,
@@ -1888,7 +1900,7 @@
     },
     {
       "code": 814,
-      "name": "Fransk Polynesia"
+      "name": "French Polynesia"
     },
     {
       "code": 815,
@@ -1908,7 +1920,7 @@
     },
     {
       "code": 819,
-      "name": "USAs ytre småøyer"
+      "name": "US Minor Outlying Islands"
     },
     {
       "code": 820,
@@ -1920,15 +1932,15 @@
     },
     {
       "code": 822,
-      "name": "Norfolkøya"
+      "name": "Norfolk Island"
     },
     {
       "code": 826,
-      "name": "Mikronesiaføderasjonen"
+      "name": "Micronesia, Federated States of"
     },
     {
       "code": 827,
-      "name": "Papua Ny-Guinea"
+      "name": "Papua New Guinea"
     },
     {
       "code": 828,
@@ -1944,15 +1956,15 @@
     },
     {
       "code": 832,
-      "name": "Wallis- og Futunaøyene"
+      "name": "Wallis and Futuna Islands"
     },
     {
       "code": 833,
-      "name": "Ny-Caledonia"
+      "name": "New Caledonia"
     },
     {
       "code": 835,
-      "name": "Marshalløyene"
+      "name": "Marshall Islands"
     },
     {
       "code": 839,
@@ -1960,7 +1972,7 @@
     },
     {
       "code": 840,
-      "name": "Nord-Marianene"
+      "name": "Northern Mariana Islands"
     },
     {
       "code": 980,
