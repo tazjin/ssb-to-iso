@@ -14,6 +14,6 @@ def to_countrymap: .
 . | (.iso | to_countrymap) as $iso
   | .ssb
   | map({ key: (.code | tostring)
-        , value: { name: .name, iso: $iso[.name] } })
-  | map(select(.value.iso == null))
+        , value: $iso[.name] })
+  | map(select(.value != null))
   | from_entries
